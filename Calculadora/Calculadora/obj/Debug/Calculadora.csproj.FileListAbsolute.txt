@@ -1,0 +1,7 @@
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\matheus-pc\source\Nova pasta\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
